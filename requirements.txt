@@ -1,6 +1,6 @@
 affine
 amqp
-apturl
+# apturl
 asgiref
 attrs
 beautifulsoup4
