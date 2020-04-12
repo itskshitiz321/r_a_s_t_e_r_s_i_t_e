@@ -8,7 +8,7 @@ billiard
 blinker
 boto3
 botocore
-Brlapi
+# Brlapi
 celery
 certifi
 chardet
