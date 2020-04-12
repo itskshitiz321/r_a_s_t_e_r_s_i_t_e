@@ -19,7 +19,7 @@ django-leaflet
 django-raster
 
 Fiona
-# GDAL
+GDAL
 geojson
 gunicorn
 importlib-metadata
@@ -46,6 +46,6 @@ snuggs
 sqlparse
 urllib3
 vine
-whitenoise
+# whitenoise
 wincertstore
 zipp
