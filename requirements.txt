@@ -1,6 +1,6 @@
 affine==2.3.0
 amqp==2.5.2
-apturl==0.5.2
+# apturl==0.5.2
 asgiref==3.2.7
 attrs==19.3.0
 beautifulsoup4==4.4.1
