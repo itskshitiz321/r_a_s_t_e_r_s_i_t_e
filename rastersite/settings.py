@@ -88,7 +88,7 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.contrib.gis.db.backends.postgis',
         'NAME': 'rastercalculator',
-        'USER': 'postgres',
+        'USER': 'kshitiz',
         'PASSWORD': 'admin',
         'HOST': 'localhost',
         'PORT': '5432',
