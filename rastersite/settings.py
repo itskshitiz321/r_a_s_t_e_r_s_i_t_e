@@ -30,10 +30,7 @@ SECRET_KEY = os.environ['SECRET_KEY']
 DEBUG = False
 
 ALLOWED_HOSTS = [
-    server {
-    listen 80 default_server;
-    return 444;
-}
+    
 ]
 
 
