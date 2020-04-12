@@ -19,7 +19,7 @@ django-leaflet
 django-raster
 
 Fiona
-GDAL
+# GDAL
 geojson
 gunicorn
 importlib-metadata
